@@ -1,0 +1,41 @@
+body {
+  font-family: 'Open Sans', serif;
+  color: #999;
+  background-color: #999;
+}
+.headerr{
+  background-image: url("header.jpg");
+  background-size: cover;
+  height: 190px;
+}
+.navbar-inverse{
+  background-color: #710C0C;
+}
+.navbar-inverse .navbar-nav>li>a{
+  color: #999;
+  font-size: 16px;
+}
+
+.well{
+  background-color: #710C0C;
+}
+
+.well h1{
+  font-size: 16px;
+  text-align: center;
+}
+
+.knight{
+  background-image: url("frontpage.jpg");
+  height: 400px;
+  background-size: contain; 
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.row ul{
+  list-style: none;
+}
+.row h4{
+  font-size: 13px;
+}
